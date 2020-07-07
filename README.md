@@ -1,4 +1,4 @@
-# Flutter Codemagic Example
+## Flutter Codemagic Example | Development Environment
 
 Two different environments (Development and Production)
 linked with CodeMagic CI/CD
